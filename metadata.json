@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sophomore's Dream Explorer",
+  "description": "An interactive mathematical visualization of the Sophomore's Dream identities, featuring numerical verification, graphical analysis, and AI-powered explanations using the Gemini API.",
+  "requestFramePermissions": []
+}
